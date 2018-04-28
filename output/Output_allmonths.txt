@@ -1,0 +1,60 @@
+
+Start setting tf variables...
+Start initializing parameters...
+Start training model...
+	epoch 1; train MSE: 966.855539; train MAE: 15.208220; test MSE: 311.648203; test MAE: 7.788841
+	epoch 50; train MSE: 957.615203; train MAE: 14.957915; test MSE: 309.007450; test MAE: 7.600951
+Minimum epoch 49; test MSE 309.007450; test MAE 7.600951
+Training Finished!
+prediction 0 for value smaller than 0
+MSE: 278.578442766
+MAE: 5.78566810084
+
+
+Start setting tf variables...
+Start initializing parameters...
+Start training model...
+	epoch 1; train MSE: 913.083217; train MAE: 13.998661; test MSE: 147.866517; test MAE: 7.749462
+	epoch 50; train MSE: 904.582387; train MAE: 13.757092; test MSE: 143.734543; test MAE: 7.527562
+Minimum epoch 49; test MSE 143.734543; test MAE 7.527562
+Training Finished!
+prediction 0 for value smaller than 0
+MSE: 123.512484694
+MAE: 6.46033489531
+
+
+Start setting tf variables...
+Start initializing parameters...
+Start training model...
+	epoch 1; train MSE: 938.525563; train MAE: 14.627630; test MSE: 98.955761; test MAE: 6.354806
+	epoch 50; train MSE: 929.799436; train MAE: 14.379852; test MSE: 96.175569; test MAE: 6.180596
+Minimum epoch 49; test MSE 96.175569; test MAE 6.180596
+Training Finished!
+prediction 0 for value smaller than 0
+MSE: 74.9082226075
+MAE: 4.64211393104
+
+
+Start setting tf variables...
+Start initializing parameters...
+Start training model...
+	epoch 1; train MSE: 981.864180; train MAE: 15.336099; test MSE: 74.103814; test MAE: 6.082999
+	epoch 50; train MSE: 972.917370; train MAE: 15.089667; test MSE: 72.006115; test MAE: 5.915598
+Minimum epoch 49; test MSE 72.006115; test MAE 5.915598
+Training Finished!
+prediction 0 for value smaller than 0
+MSE: 62.0051560383
+MAE: 4.94549105297
+
+
+Start setting tf variables...
+Start initializing parameters...
+Start training model...
+	epoch 1; train MSE: 947.589711; train MAE: 14.604795; test MSE: 319.647155; test MAE: 7.226795
+	epoch 50; train MSE: 939.367411; train MAE: 14.363203; test MSE: 314.704741; test MAE: 7.034121
+Minimum epoch 49; test MSE 314.704741; test MAE 7.034121
+Training Finished!
+prediction 0 for value smaller than 0
+MSE: 301.568712048
+MAE: 6.62647823712
+
