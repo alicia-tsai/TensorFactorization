@@ -1,4 +1,4 @@
-## Tensor Factorization
+## Tensor Factorization Model for Sales Prediction
 
 ### About:
 This project trains a tensor factorization model on 433 products and 499 vending machines to predict the sales amount of each product on each vending machines. 
